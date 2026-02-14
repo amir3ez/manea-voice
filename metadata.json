@@ -1,0 +1,7 @@
+{
+  "name": "أثير (Atheer) - Advanced Arabic TTS",
+  "description": "منصة احترافية لتحويل النص إلى كلام باللغة العربية باستخدام تقنيات Gemini المتطورة، تتميز بواجهة سينمائية وتحكم دقيق في نبرة الصوت والوقفات.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
